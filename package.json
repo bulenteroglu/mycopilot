@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "@types/leaflet-routing-machine": "^3.2.1",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "firebase": "^5.9.4",
     "leaflet": "^1.4.0",
     "leaflet-arc": "^1.0.2",
